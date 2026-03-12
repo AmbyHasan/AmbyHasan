@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-Software Engineering Student • Full Stack Developer • Algorithm Enthusiast
+Software Engineering Student • Full Stack Developer • Generative AI Builder • Algorithm Enthusiast
 </h3>
 
 <p align="center">
@@ -20,7 +20,8 @@ Building scalable systems, solving hard algorithmic problems, and exploring AI-p
 💻 Full-Stack Developer (React, Next.js, Node.js)  
 🧠 **Knight on LeetCode (1863 rating)**  
 🧩 **1100+ DSA problems solved**  
-⚡ Passionate about scalable systems and AI integrations  
+⚡ Passionate about scalable systems, **Generative AI applications**, and intelligent developer tools
+🤖 Building **AI-powered platforms using LLMs, voice AI, and intelligent automation**
 
 I enjoy building **production-grade web applications**, designing **clean APIs**, and solving **complex algorithmic problems**.
 
@@ -43,7 +44,28 @@ MongoDB • PostgreSQL • MySQL
 ### 🛠 Tools
 Git • GitHub • Docker • Postman • Prisma • Vercel
 
+### 🤖 AI / Gen AI
+LLMs • Groq (LLaMA 3.1) • Gemini • VAPI • Prompt Engineering • AI APIs
+
 ---
+
+# 🤖 Generative AI
+
+Experienced in building **AI-powered applications using Large Language Models (LLMs)**.
+
+Technologies & Concepts:
+
+• LLM Integration (LLaMA, Gemini)  
+• AI-powered chat systems  
+• Voice AI interaction systems  
+• Prompt engineering  
+• AI transcript analysis  
+• AI feedback generation  
+• AI-driven learning assistants  
+
+Frameworks & APIs:
+
+Groq API • Gemini API • VAPI • OpenAI-compatible APIs
 
 # 🧰 Technologies
 
@@ -91,7 +113,7 @@ Git • GitHub • Docker • Postman • Prisma • Vercel
 
 ## 🎤 InterviewX Live
 
-AI-powered interview preparation platform with real-time voice interaction.
+AI-powered interview preparation platform leveraging **Generative AI, voice AI, and LLM-based feedback systems**.
 
 ### Features
 • Voice-based mock interviews  
