@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amber Hasan</h1>
 
-<p align="center">
-  <img src="https://github.com/AmbyHasan/AmbyHasan/blob/main/my_formals_photo.jpg" width="180" style="border-radius:50%">
-</p>
+
 
 <h3 align="center">
 Software Engineering Student • Full Stack Developer • Generative AI Builder • Algorithm Enthusiast
