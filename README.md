@@ -107,57 +107,6 @@ Groq API • Gemini API • VAPI • OpenAI-compatible APIs
 
 ---
 
-# 🚀 Featured Projects
-
-## 🎤 InterviewX Live
-
-AI-powered interview preparation platform leveraging **Generative AI, voice AI, and LLM-based feedback systems**.
-
-### Features
-• Voice-based mock interviews  
-• AI feedback from transcript scoring  
-• Resume management system  
-• AI career coach chatbot  
-• Technical quiz engine  
-• Personalized learning roadmaps  
-
-### Tech Stack
-
-Next.js • TypeScript • React  
-PostgreSQL • MongoDB • Prisma  
-Groq (LLaMA 3.1) • Gemini • VAPI  
-NextAuth • Stripe
-
----
-
-## 📝 Blogify
-
-Full-stack blogging platform using the **MERN stack**.
-
-Features:
-
-• Role-based access control  
-• Secure content management  
-• Modular REST APIs  
-• Zod validation  
-• Redux Toolkit state management
-
----
-
-## 🧠 Bubble Brain
-
-TypeScript-first knowledge management application.
-
-Features:
-
-• Reusable React architecture  
-• JWT authentication  
-• Protected API routes  
-• External content embedding  
-• Robust input validation
-
----
-
 # 🏆 Achievements
 
 🥇 **Knight rank on LeetCode**  
@@ -170,18 +119,6 @@ Participated in:
 🚀 TVS E.P.I.C 7.0  
 
 🏅 Winner — **Hindustan Yuva Sansad Debate**
-
----
-
-# 📜 Certifications
-
-✔ Developing Backend Apps with **Node.js & Express — IBM**  
-✔ **Object Oriented Programming — Take U Forward**  
-✔ **SQL (Intermediate) — HackerRank**  
-✔ **Python for Data Science — Infosys**  
-✔ **HTML, CSS, JavaScript — Infosys**
-
----
 
 # 🤝 Connect With Me
 
