@@ -20,7 +20,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,java,react,nextjs,nodejs,express,mongodb,postgres,mysql,git,docker,vercel,tailwind" />
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,java,react,nextjs,nodejs,express,mongodb,postgres,mysql,git,docker,aws,render,postman,vercel,tailwind" />
 </p>
 
 ### 📊 Stats
